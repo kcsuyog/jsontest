@@ -1,149 +1,149 @@
 [
- {
-   "Name": "Christy Schumm",
-   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
-   "Day of Week": "Monday",
-   "Available at": " 9:00AM",
-   "Available until": " 5:30PM"
- },
- {
-   "Name": "Christy Schumm",
-   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
-   "Day of Week": "Tuesday",
-   "Available at": " 8:00AM",
-   "Available until": " 4:00PM"
- },
- {
-   "Name": "Christy Schumm",
-   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
-   "Day of Week": "Thursday",
-   "Available at": " 9:00AM",
-   "Available until": " 4:00PM"
- },
- {
-   "Name": "Christy Schumm",
-   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
-   "Day of Week": "Friday",
-   "Available at": " 7:00AM",
-   "Available until": " 2:00PM"
- },
- {
-   "Name": "Natalia Stanton Jr.",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Tuesday",
-   "Available at": " 8:00AM",
-   "Available until": "10:00AM"
- },
- {
-   "Name": "Natalia Stanton Jr.",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Wednesday",
-   "Available at": "11:00AM",
-   "Available until": " 6:00PM"
- },
- {
-   "Name": "Natalia Stanton Jr.",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Saturday",
-   "Available at": " 9:00AM",
-   "Available until": " 3:00PM"
- },
- {
-   "Name": "Natalia Stanton Jr.",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Sunday",
-   "Available at": " 8:00AM",
-   "Available until": " 3:00PM"
- },
- {
-   "Name": "Nola Murazik V",
-   "Timezone": "(GMT-09:00) America/Yakutat",
-   "Day of Week": "Monday",
-   "Available at": " 8:00AM",
-   "Available until": "10:00AM"
- },
- {
-   "Name": "Nola Murazik V",
-   "Timezone": "(GMT-09:00) America/Yakutat",
-   "Day of Week": "Tuesday",
-   "Available at": "11:00AM",
-   "Available until": " 1:00PM"
- },
- {
-   "Name": "Nola Murazik V",
-   "Timezone": "(GMT-09:00) America/Yakutat",
-   "Day of Week": "Wednesday",
-   "Available at": " 8:00AM",
-   "Available until": "10:00AM"
- },
- {
-   "Name": "Nola Murazik V",
-   "Timezone": "(GMT-09:00) America/Yakutat",
-   "Day of Week": "Saturday",
-   "Available at": " 8:00AM",
-   "Available until": "11:00AM"
- },
- {
-   "Name": "Nola Murazik V",
-   "Timezone": "(GMT-09:00) America/Yakutat",
-   "Day of Week": "Sunday",
-   "Available at": " 7:00AM",
-   "Available until": " 9:00AM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Monday",
-   "Available at": " 9:00AM",
-   "Available until": " 3:00PM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Tuesday",
-   "Available at": " 6:00AM",
-   "Available until": " 1:00PM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Wednesday",
-   "Available at": " 6:00AM",
-   "Available until": "11:00AM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Friday",
-   "Available at": " 8:00AM",
-   "Available until": "12:00PM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Saturday",
-   "Available at": " 9:00AM",
-   "Available until": " 4:00PM"
- },
- {
-   "Name": "Elyssa O'Kon",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Sunday",
-   "Available at": " 8:00AM",
-   "Available until": "10:00AM"
- },
- {
-   "Name": "Dr. Geovany Keebler",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Thursday",
-   "Available at": " 7:00AM",
-   "Available until": " 2:00PM"
- },
- {
-   "Name": "Dr. Geovany Keebler",
-   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
-   "Day of Week": "Thursday",
-   "Available at": " 3:00PM",
-   "Available until": " 5:00PM"
- }
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:30PM"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": "11:00AM",
+    "available_until": " 6:00PM"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": " 3:00PM"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Monday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Tuesday",
+    "available_at": "11:00AM",
+    "available_until": " 1:00PM"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Saturday",
+    "available_at": " 8:00AM",
+    "available_until": "11:00AM"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Sunday",
+    "available_at": " 7:00AM",
+    "available_until": " 9:00AM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 6:00AM",
+    "available_until": " 1:00PM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": " 6:00AM",
+    "available_until": "11:00AM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": " 8:00AM",
+    "available_until": "12:00PM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM"
+  },
+  {
+    "name": "Dr. Geovany Keebler",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM"
+  },
+  {
+    "name": "Dr. Geovany Keebler",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 3:00PM",
+    "available_until": " 5:00PM"
+  }
 ]
