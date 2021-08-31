@@ -1,0 +1,149 @@
+[
+ {
+   "Name": "Christy Schumm",
+   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
+   "Day of Week": "Monday",
+   "Available at": " 9:00AM",
+   "Available until": " 5:30PM"
+ },
+ {
+   "Name": "Christy Schumm",
+   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
+   "Day of Week": "Tuesday",
+   "Available at": " 8:00AM",
+   "Available until": " 4:00PM"
+ },
+ {
+   "Name": "Christy Schumm",
+   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
+   "Day of Week": "Thursday",
+   "Available at": " 9:00AM",
+   "Available until": " 4:00PM"
+ },
+ {
+   "Name": "Christy Schumm",
+   "Timezone": "(GMT-06:00) America/North_Dakota/New_Salem",
+   "Day of Week": "Friday",
+   "Available at": " 7:00AM",
+   "Available until": " 2:00PM"
+ },
+ {
+   "Name": "Natalia Stanton Jr.",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Tuesday",
+   "Available at": " 8:00AM",
+   "Available until": "10:00AM"
+ },
+ {
+   "Name": "Natalia Stanton Jr.",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Wednesday",
+   "Available at": "11:00AM",
+   "Available until": " 6:00PM"
+ },
+ {
+   "Name": "Natalia Stanton Jr.",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Saturday",
+   "Available at": " 9:00AM",
+   "Available until": " 3:00PM"
+ },
+ {
+   "Name": "Natalia Stanton Jr.",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Sunday",
+   "Available at": " 8:00AM",
+   "Available until": " 3:00PM"
+ },
+ {
+   "Name": "Nola Murazik V",
+   "Timezone": "(GMT-09:00) America/Yakutat",
+   "Day of Week": "Monday",
+   "Available at": " 8:00AM",
+   "Available until": "10:00AM"
+ },
+ {
+   "Name": "Nola Murazik V",
+   "Timezone": "(GMT-09:00) America/Yakutat",
+   "Day of Week": "Tuesday",
+   "Available at": "11:00AM",
+   "Available until": " 1:00PM"
+ },
+ {
+   "Name": "Nola Murazik V",
+   "Timezone": "(GMT-09:00) America/Yakutat",
+   "Day of Week": "Wednesday",
+   "Available at": " 8:00AM",
+   "Available until": "10:00AM"
+ },
+ {
+   "Name": "Nola Murazik V",
+   "Timezone": "(GMT-09:00) America/Yakutat",
+   "Day of Week": "Saturday",
+   "Available at": " 8:00AM",
+   "Available until": "11:00AM"
+ },
+ {
+   "Name": "Nola Murazik V",
+   "Timezone": "(GMT-09:00) America/Yakutat",
+   "Day of Week": "Sunday",
+   "Available at": " 7:00AM",
+   "Available until": " 9:00AM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Monday",
+   "Available at": " 9:00AM",
+   "Available until": " 3:00PM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Tuesday",
+   "Available at": " 6:00AM",
+   "Available until": " 1:00PM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Wednesday",
+   "Available at": " 6:00AM",
+   "Available until": "11:00AM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Friday",
+   "Available at": " 8:00AM",
+   "Available until": "12:00PM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Saturday",
+   "Available at": " 9:00AM",
+   "Available until": " 4:00PM"
+ },
+ {
+   "Name": "Elyssa O'Kon",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Sunday",
+   "Available at": " 8:00AM",
+   "Available until": "10:00AM"
+ },
+ {
+   "Name": "Dr. Geovany Keebler",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Thursday",
+   "Available at": " 7:00AM",
+   "Available until": " 2:00PM"
+ },
+ {
+   "Name": "Dr. Geovany Keebler",
+   "Timezone": "(GMT-06:00) Central Time (US & Canada)",
+   "Day of Week": "Thursday",
+   "Available at": " 3:00PM",
+   "Available until": " 5:00PM"
+ }
+]
