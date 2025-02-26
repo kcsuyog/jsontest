@@ -4,1021 +4,1439 @@
     "timezone": "Australia/Sydney",
     "day_of_week": "Monday",
     "available_at": " 9:00AM",
-    "available_until": " 5:30PM"
+    "available_until": " 5:30PM",
+    "specialization": "Cardiology"
   },
   {
     "name": "Christy Schumm",
     "timezone": "Australia/Sydney",
     "day_of_week": "Tuesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
   },
   {
     "name": "Christy Schumm",
     "timezone": "Australia/Sydney",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
   },
   {
     "name": "Christy Schumm",
     "timezone": "Australia/Sydney",
     "day_of_week": "Friday",
     "available_at": " 7:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Cardiology"
   },
   {
     "name": "Natalia Stanton Jr.",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 8:00AM",
-    "available_until": "10:00AM"
+    "available_until": "10:00AM",
+    "specialization": "Dermatology"
   },
   {
     "name": "Natalia Stanton Jr.",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": "11:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Dermatology"
   },
   {
     "name": "Natalia Stanton Jr.",
     "timezone": "Australia/Perth",
     "day_of_week": "Saturday",
     "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
   },
   {
     "name": "Natalia Stanton Jr.",
     "timezone": "Australia/Perth",
     "day_of_week": "Sunday",
     "available_at": " 8:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
   },
   {
     "name": "Nola Murazik V",
     "timezone": "Australia/Darwin",
     "day_of_week": "Monday",
     "available_at": " 8:00AM",
-    "available_until": "10:00AM"
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
   },
   {
     "name": "Nola Murazik V",
     "timezone": "Australia/Darwin",
     "day_of_week": "Tuesday",
     "available_at": "11:00AM",
-    "available_until": " 1:00PM"
+    "available_until": " 1:00PM",
+    "specialization": "Neurology"
   },
   {
     "name": "Nola Murazik V",
     "timezone": "Australia/Darwin",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": "10:00AM"
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
   },
   {
     "name": "Nola Murazik V",
     "timezone": "Australia/Darwin",
     "day_of_week": "Saturday",
     "available_at": " 8:00AM",
-    "available_until": "11:00AM"
+    "available_until": "11:00AM",
+    "specialization": "Neurology"
   },
   {
     "name": "Nola Murazik V",
     "timezone": "Australia/Darwin",
     "day_of_week": "Sunday",
     "available_at": " 7:00AM",
-    "available_until": " 9:00AM"
+    "available_until": " 9:00AM",
+    "specialization": "Neurology"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Monday",
     "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 6:00AM",
-    "available_until": " 1:00PM"
+    "available_until": " 1:00PM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": " 6:00AM",
-    "available_until": "11:00AM"
+    "available_until": "11:00AM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Friday",
     "available_at": " 8:00AM",
-    "available_until": "12:00PM"
+    "available_until": "12:00PM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Saturday",
     "available_at": " 9:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Elyssa O'Kon",
     "timezone": "Australia/Perth",
     "day_of_week": "Sunday",
     "available_at": " 8:00AM",
-    "available_until": "10:00AM"
+    "available_until": "10:00AM",
+    "specialization": "Pediatrics"
   },
   {
     "name": "Dr. Geovany Keebler",
     "timezone": "Australia/Perth",
     "day_of_week": "Thursday",
     "available_at": " 7:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Dr. Geovany Keebler",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Thursday",
-    "available_at": " 3:00PM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Ramy Malik",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Monday",
-    "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Ramy Malik",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 6:00AM",
-    "available_until": " 1:00PM"
-  },
-  {
-    "name": "Ramy Malik",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": " 6:00AM",
-    "available_until": "11:00AM"
-  },
-  {
-    "name": "Ramy Malik",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Friday",
-    "available_at": " 8:00AM",
-    "available_until": "12:00PM"
-  },
-  {
-    "name": "Alice Johnson",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Alice Johnson",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Alice Johnson",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Alice Johnson",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Alice Johnson",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Bob Smith",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Bob Smith",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Bob Smith",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Bob Smith",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Bob Smith",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Carol White",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Carol White",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Carol White",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Carol White",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Carol White",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "David Brown",
-    "timezone": "Australia/Melbourne",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "David Brown",
-    "timezone": "Australia/Melbourne",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "David Brown",
-    "timezone": "Australia/Melbourne",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "David Brown",
-    "timezone": "Australia/Melbourne",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "David Brown",
-    "timezone": "Australia/Melbourne",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Emma Davis",
-    "timezone": "Australia/Brisbane",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Emma Davis",
-    "timezone": "Australia/Brisbane",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Emma Davis",
-    "timezone": "Australia/Brisbane",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Emma Davis",
-    "timezone": "Australia/Brisbane",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Emma Davis",
-    "timezone": "Australia/Brisbane",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Frank Wilson",
-    "timezone": "Australia/Adelaide",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Frank Wilson",
-    "timezone": "Australia/Adelaide",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Frank Wilson",
-    "timezone": "Australia/Adelaide",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Frank Wilson",
-    "timezone": "Australia/Adelaide",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Frank Wilson",
-    "timezone": "Australia/Adelaide",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Grace Lee",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Grace Lee",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Grace Lee",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Grace Lee",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Grace Lee",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Henry Clark",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Henry Clark",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Henry Clark",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Henry Clark",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "Henry Clark",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Emma Wilson",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Emma Wilson",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Emma Wilson",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Christy Schumm",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Monday",
-    "available_at": " 9:00AM",
-    "available_until": " 5:30PM"
-  },
-  {
-    "name": "Christy Schumm",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Tuesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Christy Schumm",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Thursday",
-    "available_at": " 9:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Christy Schumm",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Friday",
-    "available_at": " 7:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "Natalia Stanton Jr.",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 8:00AM",
-    "available_until": "10:00AM"
-  },
-  {
-    "name": "Natalia Stanton Jr.",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": "11:00AM",
-    "available_until": " 6:00PM"
-  },
-  {
-    "name": "Natalia Stanton Jr.",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Saturday",
-    "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Natalia Stanton Jr.",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Sunday",
-    "available_at": " 8:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Nola Murazik V",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Monday",
-    "available_at": " 8:00AM",
-    "available_until": "10:00AM"
-  },
-  {
-    "name": "Nola Murazik V",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Tuesday",
-    "available_at": "11:00AM",
-    "available_until": " 1:00PM"
-  },
-  {
-    "name": "Nola Murazik V",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": "10:00AM"
-  },
-  {
-    "name": "Nola Murazik V",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Saturday",
-    "available_at": " 8:00AM",
-    "available_until": "11:00AM"
-  },
-  {
-    "name": "Nola Murazik V",
-    "timezone": "Australia/Darwin",
-    "day_of_week": "Sunday",
-    "available_at": " 7:00AM",
-    "available_until": " 9:00AM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Monday",
-    "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Tuesday",
-    "available_at": " 6:00AM",
-    "available_until": " 1:00PM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Wednesday",
-    "available_at": " 6:00AM",
-    "available_until": "11:00AM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Friday",
-    "available_at": " 8:00AM",
-    "available_until": "12:00PM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Saturday",
-    "available_at": " 9:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "Elyssa O'Kon",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Sunday",
-    "available_at": " 8:00AM",
-    "available_until": "10:00AM"
-  },
-  {
-    "name": "Dr. Geovany Keebler",
-    "timezone": "Australia/Perth",
-    "day_of_week": "Thursday",
-    "available_at": " 7:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Orthopedics"
   },
   {
     "name": "Dr. Geovany Keebler",
     "timezone": "Australia/Perth",
     "day_of_week": "Thursday",
     "available_at": " 3:00PM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Orthopedics"
   },
   {
     "name": "Ramy Malik",
     "timezone": "Australia/Perth",
     "day_of_week": "Monday",
     "available_at": " 9:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Gastroenterology"
   },
   {
     "name": "Ramy Malik",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 6:00AM",
-    "available_until": " 1:00PM"
+    "available_until": " 1:00PM",
+    "specialization": "Gastroenterology"
   },
   {
     "name": "Ramy Malik",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": " 6:00AM",
-    "available_until": "11:00AM"
+    "available_until": "11:00AM",
+    "specialization": "Gastroenterology"
   },
   {
     "name": "Ramy Malik",
     "timezone": "Australia/Perth",
     "day_of_week": "Friday",
     "available_at": " 8:00AM",
-    "available_until": "12:00PM"
+    "available_until": "12:00PM",
+    "specialization": "Gastroenterology"
   },
   {
     "name": "Alice Johnson",
     "timezone": "Australia/Sydney",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Oncology"
   },
   {
     "name": "Alice Johnson",
     "timezone": "Australia/Sydney",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Oncology"
   },
   {
     "name": "Alice Johnson",
     "timezone": "Australia/Sydney",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Oncology"
   },
   {
     "name": "Alice Johnson",
     "timezone": "Australia/Sydney",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Oncology"
   },
   {
     "name": "Alice Johnson",
     "timezone": "Australia/Sydney",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Oncology"
   },
   {
     "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Radiology"
   },
   {
     "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Radiology"
   },
   {
     "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Radiology"
   },
   {
     "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Radiology"
   },
   {
     "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Radiology"
   },
   {
     "name": "Carol White",
     "timezone": "Australia/Darwin",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Psychiatry"
   },
   {
     "name": "Carol White",
     "timezone": "Australia/Darwin",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Psychiatry"
   },
   {
     "name": "Carol White",
     "timezone": "Australia/Darwin",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Psychiatry"
   },
   {
     "name": "Carol White",
     "timezone": "Australia/Darwin",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Psychiatry"
   },
   {
     "name": "Carol White",
     "timezone": "Australia/Darwin",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Psychiatry"
   },
   {
     "name": "David Brown",
     "timezone": "Australia/Melbourne",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Endocrinology"
   },
   {
     "name": "David Brown",
     "timezone": "Australia/Melbourne",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Endocrinology"
   },
   {
     "name": "David Brown",
     "timezone": "Australia/Melbourne",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Endocrinology"
   },
   {
     "name": "David Brown",
     "timezone": "Australia/Melbourne",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Endocrinology"
   },
   {
     "name": "David Brown",
     "timezone": "Australia/Melbourne",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Endocrinology"
   },
   {
     "name": "Emma Davis",
     "timezone": "Australia/Brisbane",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Hematology"
   },
   {
     "name": "Emma Davis",
     "timezone": "Australia/Brisbane",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Hematology"
   },
   {
     "name": "Emma Davis",
     "timezone": "Australia/Brisbane",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Hematology"
   },
   {
     "name": "Emma Davis",
     "timezone": "Australia/Brisbane",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Hematology"
   },
   {
     "name": "Emma Davis",
     "timezone": "Australia/Brisbane",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Hematology"
   },
   {
     "name": "Frank Wilson",
     "timezone": "Australia/Adelaide",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Nephrology"
   },
   {
     "name": "Frank Wilson",
     "timezone": "Australia/Adelaide",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Nephrology"
   },
   {
     "name": "Frank Wilson",
     "timezone": "Australia/Adelaide",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Nephrology"
   },
   {
     "name": "Frank Wilson",
     "timezone": "Australia/Adelaide",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Nephrology"
   },
   {
     "name": "Frank Wilson",
     "timezone": "Australia/Adelaide",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Nephrology"
   },
   {
     "name": "Grace Lee",
     "timezone": "Australia/Sydney",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Pulmonology"
   },
   {
     "name": "Grace Lee",
     "timezone": "Australia/Sydney",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Pulmonology"
   },
   {
     "name": "Grace Lee",
     "timezone": "Australia/Sydney",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Pulmonology"
   },
   {
     "name": "Grace Lee",
     "timezone": "Australia/Sydney",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Pulmonology"
   },
   {
     "name": "Grace Lee",
     "timezone": "Australia/Sydney",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Pulmonology"
   },
   {
-    "name": "Henry Clark",
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:30PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Christy Schumm",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": "11:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Natalia Stanton Jr.",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Monday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Tuesday",
+    "available_at": "11:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Saturday",
+    "available_at": " 8:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Nola Murazik V",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Sunday",
+    "available_at": " 7:00AM",
+    "available_until": " 9:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 6:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": " 6:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": " 8:00AM",
+    "available_until": "12:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Elyssa O'Kon",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Dr. Geov Keebler",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Orthopedics"
+  },
+  {
+    "name": "Dr. Geovany Keebler",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 3:00PM",
+    "available_until": " 5:00PM",
+    "specialization": "Orthopedics"
+  },
+  {
+    "name": "Ramy Malik",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Ramy Malik",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 6:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Ramy Malik",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": " 6:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Ramy Malik",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": " 8:00AM",
+    "available_until": "12:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Alice Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Alice Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Alice Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Alice Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Alice Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Henry Clark",
+    "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Henry Clark",
+    "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Henry Clark",
+    "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
+    "available_until": " 5:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Henry Clark",
+    "name": "Bob Smith",
     "timezone": "Australia/Perth",
     "day_of_week": "Friday",
     "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 6:00PM",
+    "specialization": "Radiology"
+  },
+  {
+    "name": "Carol White",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Carol White",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Carol White",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Carol White",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Carol White",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "David Brown",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "David Brown",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "David Brown",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "David Brown",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "David Brown",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "Emma Davis",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Emma Davis",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Emma Davis",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Emma Davis",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Emma Davis",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Frank Wilson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Frank Wilson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Frank Wilson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Frank Wilson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Frank Wilson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Grace Lee",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Grace Lee",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Grace Lee",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Grace Lee",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Grace Lee",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Pulmonology"
   },
   {
     "name": "John Smith",
     "timezone": "Australia/Sydney",
     "day_of_week": "Monday",
-    "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Tuesday",
-    "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Wednesday",
-    "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Thursday",
     "available_at": " 9:00AM",
-    "available_until": " 5:00PM"
-  },
-  {
-    "name": "John Smith",
-    "timezone": "Australia/Sydney",
-    "day_of_week": "Friday",
-    "available_at": "10:00AM",
-    "available_until": " 6:00PM"
+    "available_until": " 5:30PM",
+    "specialization": "Cardiology"
   },
   {
     "name": "Emma Wilson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Michael Chang",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "Sarah Johnson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Cardiology"
+  },
+  {
+    "name": "David Miller",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Lisa Anderson",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": "11:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "James Brown",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Maria Garcia",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Dermatology"
+  },
+  {
+    "name": "Robert Taylor",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Monday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Jennifer Lee",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Tuesday",
+    "available_at": "11:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "William Davis",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Elizabeth Moore",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Saturday",
+    "available_at": " 8:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Thomas Wright",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Sunday",
+    "available_at": " 7:00AM",
+    "available_until": " 9:00AM",
+    "specialization": "Neurology"
+  },
+  {
+    "name": "Margaret White",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Richard Hall",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 6:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Barbara Allen",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": " 6:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Steven Young",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": " 8:00AM",
+    "available_until": "12:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Susan King",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Saturday",
+    "available_at": " 9:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Joseph Scott",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Sunday",
+    "available_at": " 8:00AM",
+    "available_until": "10:00AM",
+    "specialization": "Pediatrics"
+  },
+  {
+    "name": "Karen Harris",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 7:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Orthopedics"
+  },
+  {
+    "name": "Nancy Clark",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 3:00PM",
+    "available_until": " 5:00PM",
+    "specialization": "Orthopedics"
+  },
+  {
+    "name": "Daniel Rodriguez",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Monday",
+    "available_at": " 9:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Patricia Lewis",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Tuesday",
+    "available_at": " 6:00AM",
+    "available_until": " 1:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Christopher Walker",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Wednesday",
+    "available_at": " 6:00AM",
+    "available_until": "11:00AM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Linda Robinson",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": " 8:00AM",
+    "available_until": "12:00PM",
+    "specialization": "Gastroenterology"
+  },
+  {
+    "name": "Mark Martinez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Elizabeth Hernandez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Paul Lopez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Mary Gonzalez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "James Wilson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Oncology"
+  },
+  {
+    "name": "Barbara Allen",
     "timezone": "Australia/Perth",
     "day_of_week": "Monday",
     "available_at": " 6:00AM",
-    "available_until": " 2:00PM"
+    "available_until": " 2:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Emma Wilson",
+    "name": "Steven Young",
     "timezone": "Australia/Perth",
     "day_of_week": "Tuesday",
     "available_at": " 7:00AM",
-    "available_until": " 3:00PM"
+    "available_until": " 3:00PM",
+    "specialization": "Radiology"
   },
   {
-    "name": "Emma Wilson",
+    "name": "Susan King",
     "timezone": "Australia/Perth",
     "day_of_week": "Wednesday",
     "available_at": " 8:00AM",
-    "available_until": " 4:00PM"
+    "available_until": " 4:00PM",
+    "specialization": "Radiology"
+  },
+  {
+    "name": "Joseph Scott",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Radiology"
+  },
+  {
+    "name": "Karen Harris",
+    "timezone": "Australia/Perth",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Radiology"
+  },
+  {
+    "name": "Nancy Clark",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Daniel Rodriguez",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Patricia Lewis",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Christopher Walker",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Linda Robinson",
+    "timezone": "Australia/Darwin",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Psychiatry"
+  },
+  {
+    "name": "Mark Martinez",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "Elizabeth Hernandez",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "Paul Lopez",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "Mary Gonzalez",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "James Wilson",
+    "timezone": "Australia/Melbourne",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Endocrinology"
+  },
+  {
+    "name": "Barbara Allen",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Steven Young",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Susan King",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Joseph Scott",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Karen Harris",
+    "timezone": "Australia/Brisbane",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Hematology"
+  },
+  {
+    "name": "Nancy Clark",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Daniel Rodriguez",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Patricia Lewis",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Christopher Walker",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Linda Robinson",
+    "timezone": "Australia/Adelaide",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Nephrology"
+  },
+  {
+    "name": "Mark Martinez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Monday",
+    "available_at": " 6:00AM",
+    "available_until": " 2:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Elizabeth Hernandez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Tuesday",
+    "available_at": " 7:00AM",
+    "available_until": " 3:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Paul Lopez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Wednesday",
+    "available_at": " 8:00AM",
+    "available_until": " 4:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "Mary Gonzalez",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Thursday",
+    "available_at": " 9:00AM",
+    "available_until": " 5:00PM",
+    "specialization": "Pulmonology"
+  },
+  {
+    "name": "James Wilson",
+    "timezone": "Australia/Sydney",
+    "day_of_week": "Friday",
+    "available_at": "10:00AM",
+    "available_until": " 6:00PM",
+    "specialization": "Pulmonology"
   }
 ]
